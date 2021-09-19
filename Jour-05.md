@@ -21,7 +21,7 @@
   * [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
 * [x] Comprendre l'intérêt des raccourcis clavier
 * [ ] Découverte des raccourcis clavier de son système (Windows, Linux, Mac) : 
-  * [ ] Navigateur (fenêtres, onglets, navigation, etc …)
+  * [x] Navigateur (fenêtres, onglets, navigation, etc …)
   * [ ] Terminal (fenêtres, onglets, commandes)
 * [ ] Commencer la rédaction en Markdown de ses cheat sheets dans un repo créé pour l'occasion
 
@@ -29,4 +29,4 @@
 
 ### Optionnel pour apprendre le terminal Linux / Mac : 
 
-* [ ] Faire le wargame bandit jusqu'au niveau 5 (anglais)
+* [x] Faire le wargame bandit jusqu'au niveau 5 (anglais)
