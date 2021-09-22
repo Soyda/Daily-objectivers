@@ -22,7 +22,7 @@
 * [x] Comprendre l'intérêt des raccourcis clavier
 * [ ] Découverte des raccourcis clavier de son système (Windows, Linux, Mac) : 
   * [x] Navigateur (fenêtres, onglets, navigation, etc …)
-  * [ ] Terminal (fenêtres, onglets, commandes)
+  * [x] Terminal (fenêtres, onglets, commandes)
 * [ ] Commencer la rédaction en Markdown de ses cheat sheets dans un repo créé pour l'occasion
 
 
