@@ -26,4 +26,4 @@
 
   * [x] Comprendre ce qu'est un algorithme
   * [x] Comprendre l'utilité des algorithmes
-  * [ ] Déterminer l'importance de l’étude des algorithmes dans une carrière de dev
+  * [x] Déterminer l'importance de l’étude des algorithmes dans une carrière de dev
