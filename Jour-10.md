@@ -22,7 +22,7 @@
 
 ### Algo : 
 
-  * [ ] Découvrir le tri à bulles (Bubble Sort)
+  * [x] Découvrir le tri à bulles (Bubble Sort)
 
 
 

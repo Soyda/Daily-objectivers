@@ -2,7 +2,7 @@
 
 ## Phase 1 - Je suis un(e) développeur(se)
 
-## Mercredi 22/09/2021
+## Jeudi 23/09/2021
 
 ### HTML :
 
