@@ -24,5 +24,5 @@
 ## Javascript : 
 
   * [x] Savoir comment insérer du javascript dans du HTML de différentes manières (http://fr.javascript.info/hello-world)
-  * [ ] Savoir comment sont structurés les documents javascript (http://fr.javascript.info/structure)
-  * [ ] Comprendre le fonctionnement et l'utilité du `"use strict"` (http://fr.javascript.info/strict-mode)
+  * [x] Savoir comment sont structurés les documents javascript (http://fr.javascript.info/structure)
+  * [x] Comprendre le fonctionnement et l'utilité du `"use strict"` (http://fr.javascript.info/strict-mode)
