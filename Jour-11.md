@@ -10,11 +10,11 @@
   * [ ] Découvrir Google Fonts
   * [ ] Savoir intégrer des polices extérieures dans le CSS
   * [ ] Comprendre la notion de cascade en CSS
-  * [ ] Comprendre le fonctionnement de l'héritage en CSS
+  * [x] Comprendre le fonctionnement de l'héritage en CSS
 
 #### Optionnel : 
 
-  * [ ] Se challenger sur [CSSBattle](https://cssbattle.dev/) (niveau balèze)
+  * [x] Se challenger sur [CSSBattle](https://cssbattle.dev/) (niveau balèze)
 
 
 
