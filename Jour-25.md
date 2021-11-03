@@ -7,7 +7,7 @@
 
   * [ ] Approfondir les `strings` en Javascript (https://fr.javascript.info/string)
     * [ ] Faire les 4 exercices et analyser ses erreurs
-  * [ ] Comprendre le fonctionnement des tableaux en Javascript (https://fr.javascript.info/array)
+  * [x] Comprendre le fonctionnement des tableaux en Javascript (https://fr.javascript.info/array)
   * [ ] Approfondir les tableaux en Javascript en faisant le tour des méthodes disponibles (https://fr.javascript.info/array-methods)
 
 
@@ -20,18 +20,18 @@
       * [ ] Comprendre la différence entre une `collection` et un `array`
       * [ ] Comprendre la différence entre un `element` et un `node`
       * [ ] Bien comprendre à quoi correspond : 
-        * [ ] `parentElement`
-        * [ ] `children`
-        * [ ] `firstElementChild`
-        * [ ] `lastElementChild`
-        * [ ] `previousElementSibling`
-        * [ ] `nextElementSibling`
+        * [x] `parentElement`
+        * [x] `children`
+        * [x] `firstElementChild`
+        * [x] `lastElementChild`
+        * [x] `previousElementSibling`
+        * [x] `nextElementSibling`
         * [ ] `parentNode`
         * [ ] `childNodes`
-        * [ ] `firstChild`
-        * [ ] `lastChild`
-        * [ ] `previousSibling`
-        * [ ] `nextSibling`
+        * [x] `firstChild`
+        * [x] `lastChild`
+        * [x] `previousSibling`
+        * [x] `nextSibling`
     * [ ] Faire les 3 exercices et analyser ses erreurs
 
 
